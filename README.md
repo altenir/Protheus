@@ -4,7 +4,7 @@ Integração entre Anymarket e Protheus (TOTVS)
 **IMPORTANTE**
 ========================
 
-> O AnyMarket não mantem e/ou oferece suporte para a integração com o Protheus, apenas disponibilizamos a integração com a plataforma.
+> O AnyMarket não mantem e/ou oferece suporte para a integração com o Protheus, apenas disponibilizamos a integração desenvolvida por [Henrique Reis].
 
 
 Considerações
@@ -24,5 +24,14 @@ Caso tenha encontrado ou corrigido um bug ou tem alguma fature em mente e queira
  * Envie um pull request no [GitHub].
 
 
+ Mais informações
+-------------
+- Nome: Henrique Reis
+- E-mail: hermes.reis@gmail.com
+- Tel: (27) 99920 - 7702
+- Skype: henrique_reiss
+
+
  [AnyMarket]: http://www.anymarket.com.br
  [GitHub]: https://github.com/AnyMarket/Protheus
+ [Henrique Reis]: hermes.reis@gmail.com
